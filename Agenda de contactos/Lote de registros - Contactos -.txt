@@ -1,0 +1,22 @@
+Lote de registros - Contactos -
+
+Juan Perez | 114567890 | juan.perez@mail.com | Av. Siempre Viva 123 | Amigos
+Maria Lopez | 113456789 | maria.lopez@mail.com | Calle Mitre 456 | Familia
+Carlos Diaz | 115678901 | carlos.diaz@mail.com | San Martin 789 | Trabajo
+Lucia Gomez | 112345678 | lucia.gomez@mail.com | Belgrano 321 | Estudio
+Pedro Alvarez | 116543210 | pedro.alvarez@mail.com | Rivadavia 654 | Trabajo
+Sofia Martinez | 117890123 | sofia.martinez@mail.com | Urquiza 987 | Amigos
+Diego Fernandez | 118765432 | diego.fernandez@mail.com | Lavalle 741 | Familia
+Camila Torres | 119876543 | camila.torres@mail.com | Moreno 852 | Estudio
+Martin Herrera | 110987654 | martin.herrera@mail.com | Alsina 963 | Trabajo
+Valentina Ruiz | 111234567 | valentina.ruiz@mail.com | Sarmiento 159 | Amigos
+Federico Castro | 112987654 | federico.castro@mail.com | Saavedra 753 | Familia
+Julieta Molina | 113876543 | julieta.molina@mail.com | Dorrego 357 | Estudio
+Agustin Romero | 114765432 | agustin.romero@mail.com | Pueyrredon 951 | Trabajo
+Florencia Silva | 115654321 | florencia.silva@mail.com | French 258 | Amigos
+Nicolas Cabrera | 116543219 | nicolas.cabrera@mail.com | Peron 654 | Familia
+Carolina Vega | 117432198 | carolina.vega@mail.com | Italia 852 | Estudio
+Matias Navarro | 118321987 | matias.navarro@mail.com | España 963 | Trabajo
+Antonella Suarez | 119210876 | antonella.suarez@mail.com | Chile 159 | Amigos
+Gonzalo Medina | 110109765 | gonzalo.medina@mail.com | Brasil 753 | Familia
+Milagros Ortiz | 111098765 | milagros.ortiz@mail.com | Mexico 357 | Estudio
