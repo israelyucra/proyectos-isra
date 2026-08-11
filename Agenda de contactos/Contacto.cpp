@@ -49,3 +49,11 @@ void Contacto::SetCategoria(const char* categoria)
     Categoria[sizeof(Categoria) - 1] = '\0';
 }
 void Contacto::SetEstado(bool estado) { Estado = estado; }
+
+// Getters 
+const char* Contacto::GetNombre() { return Nombre; }
+const char* Contacto::GetTelefono() { return Telefono; }
+const char* Contacto::GetEmail() { return Email; }
+const char* Contacto::GetDireccion() { return Direccion; }
+const char* Contacto::GetCategoria() { return Categoria; }
+bool Contacto::GetEstado() { return Estado; }
