@@ -57,3 +57,23 @@ const char* Contacto::GetEmail() { return Email; }
 const char* Contacto::GetDireccion() { return Direccion; }
 const char* Contacto::GetCategoria() { return Categoria; }
 bool Contacto::GetEstado() { return Estado; }
+
+// Metodo
+string Contacto::ToString() 
+{
+    string RegistroDeContacto = "Nombre: " + string(Nombre) +
+           "\nTelefono: " + Telefono +
+           "\nEmail: " + Email +
+           "\nDireccion: " + Direccion +
+           "\nCategoria: " + Categoria +
+           "\nEstado: ";
+    if(Estado)
+    {
+        RegistroDeContacto += "Vigente";
+    }
+    else
+    {
+        RegistroDeContacto += "Suspendido";
+    }
+    return RegistroDeContacto;
+}
