@@ -1,5 +1,5 @@
 # Agenda de Contactos
-
+ **Aviso:** Este proyecto está en desarrollo y puede sufrir mejoras o cambios en el futuro.(Tambien se aceptan correcciones o sugerencias)
 ## Descripción
 Programa en **C++** que permite administrar una agenda de contactos:  
 - Agregar  
@@ -14,8 +14,6 @@ Programa en **C++** que permite administrar una agenda de contactos:
 3. ejecute el programa
  - una ves compilado abra un terminal
    y ejecute el programa ./AgendaDeContactos.exe
-
-## Uso
 ## Uso
 La agenda viene precargada con contactos de ejemplo.  
 Podés interactuar mediante el menú en consola:
